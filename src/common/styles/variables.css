@@ -2,5 +2,6 @@
     --bg-black:#0f0f0f;
     --white:#f8f8f8;
     --bg-gray: rgb(39,39,39);
-    --link-blue: rgb(126,162,236)
+    --link-blue: rgb(126,162,236);
+    --bg-light-grey: rgba(39,43,45,0.43);
 }
