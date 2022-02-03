@@ -1,7 +1,7 @@
 {
   "name": "credui-clone",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://eshan1925.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
