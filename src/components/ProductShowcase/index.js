@@ -7,7 +7,7 @@ const ProductShowcase = () => {
     const ref = useRef(null);
 
     const toggleAnimation = (e) => {
-        if (e[0].isIntersecting) {
+        if (e[0]?.isIntersecting) {
             setShowAnimation(true);
         }
     };

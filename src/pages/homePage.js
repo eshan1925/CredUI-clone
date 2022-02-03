@@ -1,7 +1,10 @@
 import React from 'react';
+import AppRating from '../components/AppRating';
 import BrandsLove from '../components/BrandsLove';
+import Footer from '../components/common/Footer';
 import Header from '../components/common/Header';
 import CredExperience from '../components/CredExperience';
+import CredStory from '../components/CredStory';
 import FeelSpecial from '../components/FeelSpecial';
 import HeroSection from '../components/HeroSection';
 import MobileScroll from '../components/MobileScroll';
@@ -23,6 +26,9 @@ const HomePage = () => {
       <WindowPeak />
       </div>
       <SecurityComponent />
+      <CredStory />
+      <AppRating />
+      <Footer />
     </>
   );
 };
