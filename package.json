@@ -2,7 +2,7 @@
   "name": "credui-clone",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://eshan1925.github.io",
+  "homepage": "https://eshan1925.github.io/CredUI-clone",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
@@ -21,7 +21,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-
   "browserslist": {
     "production": [
       ">0.2%",
