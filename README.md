@@ -1,3 +1,42 @@
+
+<h1 align=center> CRED UI Clone </h1>
+
+<h3>1. Landing Page-: </h3>
+
+![image](https://user-images.githubusercontent.com/78701779/152359235-d4cc59d0-6af0-4022-86c5-652128939057.png)
+
+<h3>2. Product Showcase Page-: </h3>
+
+![image](https://user-images.githubusercontent.com/78701779/152359756-d01b21c1-72e0-4681-b071-2c7426af8350.png)
+
+<h3>3. Rewards Page-: </h3>
+
+![image](https://user-images.githubusercontent.com/78701779/152359824-92acee9a-43b0-4603-bf71-c24979bb7469.png)
+
+<h3>1. Brands and experience the upgrade Page-: </h3>
+
+![image](https://user-images.githubusercontent.com/78701779/152359965-935cde90-2f71-4cd6-85ff-67b84850621a.png)
+
+<h3>1. Mobile Mockup Page-: </h3>
+
+![image](https://user-images.githubusercontent.com/78701779/152360033-33e1d643-3714-4a6e-940a-16bbadde8aa2.png)
+
+<h3>1. Window Peak and security Page-: </h3>
+
+![image](https://user-images.githubusercontent.com/78701779/152360121-479f53ef-548d-46b9-abc1-9232d168c1e7.png)
+
+<h3>1. Story of CRED Page-: </h3>
+
+![image](https://user-images.githubusercontent.com/78701779/152360208-411d19ee-87db-42e1-beed-e6123af8b794.png)
+
+<h3>1. Download CRED App Page-: </h3>
+
+![image](https://user-images.githubusercontent.com/78701779/152360575-9a0af15e-4e09-4d46-9db4-535a0d13405c.png)
+
+## Note-: 
+
+<b>This is a fully responsive website built using React and you can access the website at the following link-: <a href="https://eshan1925.github.io/CredUI-clone/">CRED UI Link</a></b>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
