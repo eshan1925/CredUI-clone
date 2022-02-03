@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.5b0e75b0.css",
-    "main.js": "/static/js/main.acb5e2ec.js",
-    "static/js/787.68959891.chunk.js": "/static/js/787.68959891.chunk.js",
-    "static/media/Gilroy-Thin.ttf": "/static/media/Gilroy-Thin.28f856b7c4b3d473e0d1.ttf",
-    "static/media/Gilroy-Regular.ttf": "/static/media/Gilroy-Regular.5b89a8df3b17dccdb73f.ttf",
-    "static/media/Gilroy-Medium.ttf": "/static/media/Gilroy-Medium.1b4da6582f83f45ea039.ttf",
-    "static/media/Gilroy-SemiBold.ttf": "/static/media/Gilroy-SemiBold.07b9100a72fe7d46d20a.ttf",
-    "static/media/Gilroy-Bold.ttf": "/static/media/Gilroy-Bold.ca49f7658c4eaac78b6d.ttf",
-    "static/media/Gilroy-ExtraBold.ttf": "/static/media/Gilroy-ExtraBold.59a66eb8c577778daaa5.ttf",
-    "index.html": "/index.html",
-    "main.5b0e75b0.css.map": "/static/css/main.5b0e75b0.css.map",
-    "main.acb5e2ec.js.map": "/static/js/main.acb5e2ec.js.map",
-    "787.68959891.chunk.js.map": "/static/js/787.68959891.chunk.js.map"
+    "main.css": "/CredUI-clone/static/css/main.404b5425.css",
+    "main.js": "/CredUI-clone/static/js/main.d2d038ad.js",
+    "static/js/787.68959891.chunk.js": "/CredUI-clone/static/js/787.68959891.chunk.js",
+    "static/media/Gilroy-Thin.ttf": "/CredUI-clone/static/media/Gilroy-Thin.28f856b7c4b3d473e0d1.ttf",
+    "static/media/Gilroy-Regular.ttf": "/CredUI-clone/static/media/Gilroy-Regular.5b89a8df3b17dccdb73f.ttf",
+    "static/media/Gilroy-Medium.ttf": "/CredUI-clone/static/media/Gilroy-Medium.1b4da6582f83f45ea039.ttf",
+    "static/media/Gilroy-SemiBold.ttf": "/CredUI-clone/static/media/Gilroy-SemiBold.07b9100a72fe7d46d20a.ttf",
+    "static/media/Gilroy-Bold.ttf": "/CredUI-clone/static/media/Gilroy-Bold.ca49f7658c4eaac78b6d.ttf",
+    "static/media/Gilroy-ExtraBold.ttf": "/CredUI-clone/static/media/Gilroy-ExtraBold.59a66eb8c577778daaa5.ttf",
+    "index.html": "/CredUI-clone/index.html",
+    "main.404b5425.css.map": "/CredUI-clone/static/css/main.404b5425.css.map",
+    "main.d2d038ad.js.map": "/CredUI-clone/static/js/main.d2d038ad.js.map",
+    "787.68959891.chunk.js.map": "/CredUI-clone/static/js/787.68959891.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b0e75b0.css",
-    "static/js/main.acb5e2ec.js"
+    "static/css/main.404b5425.css",
+    "static/js/main.d2d038ad.js"
   ]
 }
